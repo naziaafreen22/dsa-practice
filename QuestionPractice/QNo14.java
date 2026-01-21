@@ -1,3 +1,6 @@
+/*Write a program in java to convert the fahrenheit to celsius.
+ C=(F-32)*5/9
+  */
 import java.util.Scanner;
 
 public class QNo14 {
